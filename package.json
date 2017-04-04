@@ -65,7 +65,7 @@
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
     "mocha": "^3.1.2",
-    "mock-require": "^2.0.0",
+    "mock-require": "^2.0.2",
     "prettier": "^0.22.0",
     "pretty-fast": "^0.2.0",
     "react": "=15.3.2",
